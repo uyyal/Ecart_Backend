@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce-json",
+  "version": "1.0.0",
+  "description": "Fake REST API using JSON Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "json-server",
+    "fake-api",
+    "ecommerce"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
